@@ -1,4 +1,4 @@
-# 🤟 Real-Time Sign Language to Speech Converter
+#  Real-Time Sign Language to Speech Converter
 
 This project implements a **Real-Time Sign Language to Speech Converter** using computer vision and deep learning techniques.  
 The system detects **American Sign Language (ASL) gestures** through a webcam and converts them into **text and speech output**, helping bridge communication gaps between sign language users and non-signers.
