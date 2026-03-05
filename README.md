@@ -129,13 +129,4 @@ Some challenges encountered during development include:
 - Improve real-time performance  
 - Add multilingual speech output  
 - Deploy the system as a mobile or web application  
-
----
-
-# 👩‍💻 Authors
-
-**Parvathy S Nair**  
-**Anand Babu**
-
-Department of Electronics and Communication Engineering  
-Saintgits College of Engineering
+ring
